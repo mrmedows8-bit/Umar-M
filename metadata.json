@@ -1,0 +1,6 @@
+{
+  "name": "ABC College",
+  "description": "Official website of ABC College — Inspiring academic excellence, cutting-edge research, and leadership in higher education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
